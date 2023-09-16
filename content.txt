@@ -1,0 +1,5 @@
+Here we can add more text about how to use git 
+Now we can switch between different branches using "checkout (branchname)" command
+Now once we add some thing to our current directory then for reflecting those changes to our gitHub, we will run the command "git push (branchname)" then when we refresh our github, we will find the 
+changes applied to the repository
+
