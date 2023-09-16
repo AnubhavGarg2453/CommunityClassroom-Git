@@ -1,0 +1,13 @@
+Here i am writing the points which tells us how to start with git
+1. First you need to initialize git repository for your current folder. Use git init command for it
+2. Now ls(list) the names of all the files in the present folder but you won't find the git file as it is hidden.
+3. you can use ls -a to view the hidden files
+4. For creating a dir make use of the command mkdir (folder name)
+5. For opening that folder in your git use cd (path ie folder name)
+6. Now you can use the command "git status" to view the status of you activity
+7. Now initially it will be displayed in red as it is not verified yet
+8. Use the command "add ." for all untracked activity or use "add (file name with extension)"
+9. Now when you write command git status it will display the last activity in green and will ask you to commit the activity which simply means asking for the description of the current change"
+10. You can add it using command " git commit -m "message you wanna write". Now it will add this description to the current activity
+11. For writing something in the text file using git. Use command "vi (filename)". Write your content and then press "ESC and wrtite :x" to save the changes
+ 
