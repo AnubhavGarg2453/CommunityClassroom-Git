@@ -1,0 +1,7 @@
+This folder is hosted over the feature branch 
+Branching helps us in keeping things separate. This way the other branch that you might be working on and is not complete
+will not get accessed by other person who is making use of your repository to make some changes.
+Thus for the other user which is hosted over other branch within the same repository the displayed content will be different
+This is really helpful
+The head points to the current branch so when you use command "checkout (branchname)" in git. Head pointer starts to point to the branch (branchname) thus all the commit will be on the branchname
+
